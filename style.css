@@ -264,3 +264,22 @@ html { scroll-behavior: smooth; }
       color: #5a4e43;
       font-weight: 300;
     }
+
+    .card-geo {
+      margin-top: 1.2rem;
+      padding-top: 1.2rem;
+      border-top: 1px solid rgba(224, 224, 21, 0.15);
+      display: flex;
+      align-items: flex-start;
+      gap: .5rem;
+    }
+
+    .card-geo svg { flex-shrink: 0; margin-top: .15rem; }
+
+    .card-geo p {
+      font-family: 'Montserrat', sans-serif;
+      font-size: .72rem;
+      color: var(--olive);
+      line-height: 1.6;
+      letter-spacing: .03em;
+    }
