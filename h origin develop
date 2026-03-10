@@ -1,0 +1,191 @@
+[33mcommit 3a6b1a768a5df76364875b00c0c9445ef445cc5c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 21:59:16 2026 -0500
+
+    style: agregue animación fadeUp y responsive mobile
+
+[33mcommit d4336152cc4f99c68b79b1ea5c49b6c8b92838a1[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 21:52:36 2026 -0500
+
+    style: agregue estilos footer con tipografía y colores
+
+[33mcommit dc87945b32aab304f34aa50ca4a567fe9638ea4a[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 21:47:27 2026 -0500
+
+    style: agregue responsive layout para card featured
+
+[33mcommit 45c7513bd7c0d4e4237b0c7279913c350972e7bd[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 21:45:05 2026 -0500
+
+    style: agregue los estilos card-geo con borde y tipografía
+
+[33mcommit ac70400f87fc8d923d776d4aba0d33eb5acfcaab[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 21:41:20 2026 -0500
+
+    style: agregue estilos card-location, card-title y card-desc
+
+[33mcommit 9b0f4c17bd1caf6d03f522b1c76602714da25549[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 21:31:43 2026 -0500
+
+    style: agregue los estilos de card-num, card-tag y card-body
+
+[33mcommit 02fe0b6e78b90eb03399be9a082c5586bb2439aa[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 21:25:42 2026 -0500
+
+    style: agregue un hover effects para card e imagen
+
+[33mcommit 5905a05724ce417d2f1011b1215e8c1a03e78fba[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 21:23:13 2026 -0500
+
+    style: agregue animation-delay escalando para cards
+
+[33mcommit 9fdedbf3639a66d1b3fcb5007e462e895e34c864[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 21:21:04 2026 -0500
+
+    style: agregue estilos base para componente card
+
+[33mcommit b07240142e982735366039f12d6ca4e32e485631[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 21:19:54 2026 -0500
+
+    style: agregue estilos grid para sección destinations
+
+[33mcommit ab7135d8c418690811ae2ba12da21441489e68d1[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 21:18:24 2026 -0500
+
+    feat: agregaue un footer con logo y créditos
+
+[33mcommit c9cfe36deca39b962d0eee61c06d8f8f83e8dad9[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 21:16:24 2026 -0500
+
+    Agregue la seccion 10
+
+[33mcommit 0ac9407ce60dc359b049196f47cb368921ee69fd[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 21:12:50 2026 -0500
+
+    Agregue la seccion 9
+
+[33mcommit 183d21198f667d44db8930eeef6cccbb29b9a9de[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 21:10:28 2026 -0500
+
+    Agregue la seccion 8
+
+[33mcommit 4df70557cab1520d63908f0b49d83c263bd07a64[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 20:58:22 2026 -0500
+
+    Agregue la seccion 7
+
+[33mcommit 95807e0e60431f340c20ddfbec765f4a985fd47a[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 20:51:16 2026 -0500
+
+    Agregue la seccion 6
+
+[33mcommit 6dae88822c5af25da14b08380103ae79bed288b5[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 20:47:27 2026 -0500
+
+    Agregue la card 5
+
+[33mcommit ccd43ff08a1519f8bf7b5ab02b5c2e3096c55b08[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 20:40:29 2026 -0500
+
+    agregue la seccion 4
+
+[33mcommit f469a412f05549543eb09ca77948d60d7bb50114[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 20:37:41 2026 -0500
+
+    style: agregue estilos sección intro y divider
+
+[33mcommit 8788065b7f6d7caf5f55df71ef1b5078caba004c[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 20:23:36 2026 -0500
+
+    style: agregue la animación scroll-line y estilos hero-scroll span
+
+[33mcommit d2b9ee19ffbe5b8a8d00bb543bb20de2c0d45db0[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 20:11:49 2026 -0500
+
+    feat: agregue card Glaciar Perito Moreno - Argentina
+
+[33mcommit a1e164a9048204a614f1b181b0f2f6daa5dc17a2[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 20:07:33 2026 -0500
+
+    style: agregue estilos hero-sub y hero-scroll
+
+[33mcommit 81c777615386d051933b1209da76379306da77f2[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 20:04:12 2026 -0500
+
+    style: agregue estilos hero-grid, hero-label y tipografía h1
+
+[33mcommit d009a7dafcb4ecea9879ab4d0dec113e4d9388ef[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 20:01:49 2026 -0500
+
+    segunda card de brasil
+
+[33mcommit dbc7895ff904343fadf03df23866f3e415d5a61b[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 19:55:17 2026 -0500
+
+    agregar estilos globales de body y hero header
+
+[33mcommit d5a60f1a7d424955936456b6750d02456c32b2f9[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 19:53:38 2026 -0500
+
+    agregar card destacada de Londres - Palacio Hampton Court
+
+[33mcommit ec030e532d5ce6fb428fe0e9a421a85507037d7c[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 19:47:41 2026 -0500
+
+    agregar sección de destinos
+
+[33mcommit 93bfa854ffac0634d6f837ba9c9eec362575b478[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 19:44:28 2026 -0500
+
+    feat: agregar sección intro con frase y descripción
+
+[33mcommit 5b8c9c8fce4fa59fe0d5bbd0357515335453070b[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 19:40:02 2026 -0500
+
+    style: definir paleta de colores y reset CSS con variables root
+
+[33mcommit 12950775e7290403b9e04df529ef9605a57d82ac[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Mon Mar 9 19:26:14 2026 -0500
+
+    commit incial
+
+[33mcommit e6ff2aeb94473a78e4cb7513c29586b0532e6164[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Sun Mar 8 01:16:54 2026 -0500
+
+    Inicie creando el header con los contenedores con el titulo, parrafo y un scroll line
+
+[33mcommit bf95c1778821e94732e93043f6ceab2c461d736e[m
+Author: Anyely Ortiz <anyelyortizflorez@gmail.com>
+Date:   Sun Mar 8 00:59:02 2026 -0500
+
+    commit inicial
