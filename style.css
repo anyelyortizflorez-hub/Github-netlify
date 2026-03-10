@@ -293,4 +293,23 @@ html { scroll-behavior: smooth; }
       .card.featured .card-image-wrap { height: 100%; min-height: 300px; }
     }
 
-    
+     footer {
+      background: var(--deep);
+      color: rgba(245,239,230,.45);
+      text-align: center;
+      padding: 3rem 2rem;
+    }
+
+    footer .footer-logo {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.4rem;
+      color: var(--gold);
+      margin-bottom: .5rem;
+    }
+
+    footer p {
+      font-family: 'Montserrat', sans-serif;
+      font-size: .65rem;
+      letter-spacing: .2em;
+      text-transform: uppercase;
+    }
