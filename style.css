@@ -99,3 +99,25 @@ html { scroll-behavior: smooth; }
       opacity: 0;
       animation: fadeUp .9s 1.2s forwards;
     }
+
+      .hero-scroll span {
+      font-family: 'Montserrat', sans-serif;
+      font-size: .6rem;
+      letter-spacing: .3em;
+      color: var(--gold);
+      text-transform: uppercase;
+    }
+
+    .scroll-line {
+      width: 1px;
+      height: 50px;
+      background: linear-gradient(to bottom, var(--gold), transparent);
+      animation: scrollLine 1.5s 1.5s ease-in-out infinite;
+    }
+
+    @keyframes scrollLine {
+      0%   { transform: scaleY(1); transform-origin: top; }
+      50%  { transform: scaleY(.3); transform-origin: top; }
+      51%  { transform: scaleY(.3); transform-origin: bottom; }
+      100% { transform: scaleY(1); transform-origin: bottom; }
+    }
